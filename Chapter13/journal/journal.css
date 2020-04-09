@@ -50,7 +50,7 @@ caption {
     padding-top: 8px;
 }
 
-.cellcolor {
+tr:nth-child(odd) {
     background-color: #fcba7a;
 }
 

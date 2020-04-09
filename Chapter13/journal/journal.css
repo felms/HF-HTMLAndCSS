@@ -50,6 +50,10 @@ caption {
     padding-top: 8px;
 }
 
+table table th {
+    background-color: white;
+}
+
 .cellcolor {
     background-color: #fcba7a;
 }
